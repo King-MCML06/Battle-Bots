@@ -2,6 +2,8 @@
 Welcome, freshers, to your very first showdown — Battle Bots ! The choice is simple: X or O. Build your bot, step into the arena, and relive the ultimate childhood duel of tic-tac-toe.
 **Let the games begin ...**
 
+![example/scene.png](https://github.com/King-MCML06/Battle-Bots/blob/main/battle-bots-no-qr.png)
+
 ## Problem Statement
 
 You are tasked with writing a Python script that controls a bot that can play the game of [Tic Tac Toe](https://share.google/ZTG2AqZcQriS03w26).
