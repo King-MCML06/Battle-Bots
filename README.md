@@ -25,6 +25,15 @@ You are tasked with writing a Python script that controls a bot that can play th
 * Bots that are less hard-coded will be given higher priority.
 * Bots with smaller scripts will have higher priority.(Does not include comments or unnecessary whitespaces)
 
+## Guide
+
+* Feeling a bit overwhelmed and don’t know where to start? Don’t worry, we’ve got you covered !
+* First, install Python on your device.[TUTORIAL](https://www.youtube.com/watch?v=m9I-YpOjXVQ)
+* Next, go through the very basics of Python.[PYTHON TUTORIAL](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+* Try to come up with an optimal strategy/algorithm to win a tic-tac-toe game in real life.(Hint: If you can't find one, search for an existing one)
+* Check out the [`example_bot.py`](https://github.com/King-MCML06/Battle-Bots/blob/main/example-bot.py) that has already been provided to get an idea on how to create your bot.
+* Finally, code your strategy in the Player class inside your bot script and then proceed to test your bot.
+
 ## Testing
 
 To test your script, follow these steps:
