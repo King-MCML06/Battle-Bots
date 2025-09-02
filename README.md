@@ -1,6 +1,6 @@
 # Battle-Bots
 Welcome, freshers, to your very first showdown — Battle Bots! The choice is simple: X or O. Build your bot, step into the arena, and relive the ultimate childhood duel of tic-tac-toe.
-#Let the games begin ...
+Let the games begin ...
 
 ## Problem Statement
 
