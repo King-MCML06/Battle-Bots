@@ -6,7 +6,7 @@ Welcome, freshers, to your very first showdown — Battle Bots ! The choice is s
 
 You are tasked with writing a Python script that controls a bot that can play the game of [Tic Tac Toe](https://share.google/ZTG2AqZcQriS03w26).
 
-**Done with the challenge? [⬆️ SUBMIT HERE]()**
+**Done with the challenge? [⬆️ SUBMIT HERE](https://forms.gle/HYktw1kATvy351AK9)**
 
 ## Participation
 
