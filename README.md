@@ -22,8 +22,8 @@ You are tasked with writing a Python script that controls a bot that can play th
 * For each match, you will be awarded 0, 0.5, or 1 point for a loss, draw, or win respectively.
 * The final standings will be generated based on the total tournament points of the bots.
 * In case of ties in the final standings:
-* *Bots that are less hard-coded will be given higher priority.
-* *Bots with smaller scripts will have higher priority.(Does not include comments or unnecessary whitespaces)
+* Bots that are less hard-coded will be given higher priority.
+* Bots with smaller scripts will have higher priority.(Does not include comments or unnecessary whitespaces)
 
 ## Testing
 
