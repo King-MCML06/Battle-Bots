@@ -27,7 +27,7 @@ You are tasked with writing a Python script that controls a bot that can play th
 
 ## Guide
 
-* Feeling a bit overwhelmed and don’t know where to start? Don’t worry, we’ve got you covered !
+Feeling a bit overwhelmed and don’t know where to start? Don’t worry, we’ve got you covered !
 * First, install Python on your device. [TUTORIAL](https://www.youtube.com/watch?v=m9I-YpOjXVQ)
 * Next, go through the very basics of Python. [PYTHON TUTORIAL](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 * Try to come up with an optimal strategy/algorithm to win a tic-tac-toe game in real life.(Hint: If you can't find one, search for an existing one)
