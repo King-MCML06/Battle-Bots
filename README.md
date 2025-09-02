@@ -1,4 +1,6 @@
 # Battle-Bots
+Welcome, freshers, to your very first showdown — Battle Bots! The choice is simple: X or O. Build your bot, step into the arena, and relive the ultimate childhood duel of tic-tac-toe.
+#Let the games begin ...
 
 ## Problem Statement
 
@@ -10,8 +12,8 @@ You are tasked with writing a Python script that controls a bot that can play th
 
 * Teams must consist of exactly one member (solo participation only).
 * Each team can submit only one bot.
-* This challenge is crafted exclusively for beginners - no machine learning, no AI, no advanced programming concepts are required !
-* Top 3 winners will win exclusive goodies fron team NJACK - so do participate !
+* This challenge is crafted exclusively for beginners - no machine learning, no AI, no advanced programming concepts required !
+* Cool prizes alert! 🎁 Be in the top 3 and score exclusive NJACK goodies!
 
 ## Judging
 
