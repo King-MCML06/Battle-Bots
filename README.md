@@ -18,8 +18,12 @@ You are tasked with writing a Python script that controls a bot that can play th
 ## Judging
 
 * Your bots will be compete against each other in a [round-robin tournament](https://en.wikipedia.org/wiki/Round-robin_tournament).
+* To ensure fairness, you will play twice against the same opponent (once as X and the other time as O).
 * For each match, you will be awarded 0, 0.5, or 1 point for a loss, draw, or win respectively.
 * The final standings will be generated based on the total tournament points of the bots.
+* In case of ties in the final standings:
+* *Bots that are less hard-coded will be given higher priority.
+* *Bots with smaller scripts will have higher priority.(Does not include comments or unnecessary whitespaces)
 
 ## Testing
 
