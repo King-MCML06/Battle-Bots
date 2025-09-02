@@ -35,4 +35,4 @@ To test your script, follow these steps:
   2. A brief description explaining your bot's strategy (doesn't need to be very detailed!)
 * The deadline for submissions is 12th September, 11:59 PM.
 * Late submissions will not be accepted.
-* Make sure your code runs without errors and follows the input/output format as explained in the [`example_bot.py`](https://github.com/theantagonist9509/battle-bots/blob/main/example_bot.py) file in this repository.
+* Make sure your code runs without errors and follows the input/output format as explained in the [`example_bot.py`](https://github.com/King-MCML06/Battle-Bots/blob/main/example-bot.py) file in this repository.
