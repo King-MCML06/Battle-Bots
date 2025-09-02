@@ -14,7 +14,7 @@ You are tasked with writing a Python script that controls a bot that can play th
 
 ## Participation
 
-* Teams can consist of up to two members. Solo participation is also allowed.
+* Teams must consist of exactly one member (solo participation only).
 * Each team can submit only one bot.
 * No prior experience in AI or advanced programming is required – this challenge is designed for beginners!
 
