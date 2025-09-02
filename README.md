@@ -6,18 +6,18 @@ You are tasked with writing a Python script that controls a bot that can play th
 
 **Done with the challenge? [⬆️ SUBMIT HERE]()**
 
+## Participation
+
+* Teams must consist of exactly one member (solo participation only).
+* Each team can submit only one bot.
+* This challenge is crafted exclusively for beginners - no machine learning, no AI, no advanced programming concepts are required !
+* Top 3 winners will win exclusive goodies fron team NJACK - so do participate !
+
 ## Judging
 
 * Your bots will be compete against each other in a [round-robin tournament](https://en.wikipedia.org/wiki/Round-robin_tournament).
 * For each match, you will be awarded 0, 0.5, or 1 point for a loss, draw, or win respectively.
 * The final standings will be generated based on the total tournament points of the bots.
-
-## Participation
-
-* Teams must consist of exactly one member (solo participation only).
-* Each team can submit only one bot.
-* This challenge has been designed exclusive for beginners - no machine learning, AI or advanced programming concepts are required !
-* Top 3 winners will win exclusive goodies fron team NJACK - so do participate !
 
 ## Testing
 
